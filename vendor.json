@@ -4,115 +4,115 @@
     "ref": "main",
     "dest": "skills/matt",
     "license": "LICENSE",
-    "synced": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "synced": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skills": {
       "ask-matt": {
         "path": "skills/engineering/ask-matt",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "diagnosing-bugs": {
         "path": "skills/engineering/diagnosing-bugs",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "grill-with-docs": {
         "path": "skills/engineering/grill-with-docs",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "triage": {
         "path": "skills/engineering/triage",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "improve-codebase-architecture": {
         "path": "skills/engineering/improve-codebase-architecture",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "setup-matt-pocock-skills": {
         "path": "skills/engineering/setup-matt-pocock-skills",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "tdd": {
         "path": "skills/engineering/tdd",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "to-spec": {
         "path": "skills/engineering/to-spec",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "to-tickets": {
         "path": "skills/engineering/to-tickets",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "wayfinder": {
         "path": "skills/engineering/wayfinder",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "implement": {
         "path": "skills/engineering/implement",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "implement-spec": {
         "path": "skills/engineering/implement-spec",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "prototype": {
         "path": "skills/engineering/prototype",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "research": {
         "path": "skills/engineering/research",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "domain-modeling": {
         "path": "skills/engineering/domain-modeling",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "codebase-design": {
         "path": "skills/engineering/codebase-design",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "code-review": {
         "path": "skills/engineering/code-review",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "pr": {
         "path": "skills/engineering/pr",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "retro": {
         "path": "skills/engineering/retro",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "wizard": {
         "path": "skills/engineering/wizard",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "grill-me": {
         "path": "skills/productivity/grill-me",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "grilling": {
         "path": "skills/productivity/grilling",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "handoff": {
         "path": "skills/productivity/handoff",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "teach": {
         "path": "skills/productivity/teach",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "to-questionnaire": {
         "path": "skills/productivity/to-questionnaire",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "wait-what": {
         "path": "skills/productivity/wait-what",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       },
       "writing-for-agents": {
         "path": "skills/productivity/writing-for-agents",
-        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+        "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa"
       }
     }
   }
