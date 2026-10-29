@@ -1,0 +1,119 @@
+{
+  "matt": {
+    "url": "https://github.com/mattpocock/skills.git",
+    "ref": "main",
+    "dest": "skills/matt",
+    "license": "LICENSE",
+    "synced": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "skills": {
+      "ask-matt": {
+        "path": "skills/engineering/ask-matt",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "diagnosing-bugs": {
+        "path": "skills/engineering/diagnosing-bugs",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "grill-with-docs": {
+        "path": "skills/engineering/grill-with-docs",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "triage": {
+        "path": "skills/engineering/triage",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "improve-codebase-architecture": {
+        "path": "skills/engineering/improve-codebase-architecture",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "setup-matt-pocock-skills": {
+        "path": "skills/engineering/setup-matt-pocock-skills",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "tdd": {
+        "path": "skills/engineering/tdd",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "to-spec": {
+        "path": "skills/engineering/to-spec",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "to-tickets": {
+        "path": "skills/engineering/to-tickets",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "wayfinder": {
+        "path": "skills/engineering/wayfinder",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "implement": {
+        "path": "skills/engineering/implement",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "implement-spec": {
+        "path": "skills/engineering/implement-spec",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "prototype": {
+        "path": "skills/engineering/prototype",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "research": {
+        "path": "skills/engineering/research",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "domain-modeling": {
+        "path": "skills/engineering/domain-modeling",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "codebase-design": {
+        "path": "skills/engineering/codebase-design",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "code-review": {
+        "path": "skills/engineering/code-review",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "pr": {
+        "path": "skills/engineering/pr",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "retro": {
+        "path": "skills/engineering/retro",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "wizard": {
+        "path": "skills/engineering/wizard",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "grill-me": {
+        "path": "skills/productivity/grill-me",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "grilling": {
+        "path": "skills/productivity/grilling",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "handoff": {
+        "path": "skills/productivity/handoff",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "teach": {
+        "path": "skills/productivity/teach",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "to-questionnaire": {
+        "path": "skills/productivity/to-questionnaire",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "wait-what": {
+        "path": "skills/productivity/wait-what",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      },
+      "writing-for-agents": {
+        "path": "skills/productivity/writing-for-agents",
+        "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2"
+      }
+    }
+  }
+}
