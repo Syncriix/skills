@@ -15,6 +15,7 @@
     "agents"
   ],
   "skills": [
+    "./skills/shortcuts/retcon",
     "./skills/matt/ask-matt",
     "./skills/matt/diagnosing-bugs",
     "./skills/matt/grill-with-docs",

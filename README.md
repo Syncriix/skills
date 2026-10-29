@@ -9,6 +9,7 @@ harness.
 
 | Folder | What |
 |---|---|
+| `skills/shortcuts/` | Moves I'd otherwise explain every time. `retcon`: after a rewind, writes the message that replaces the earlier one, so the past already knows what the future did. |
 | `skills/matt/` | A curated, edited cut of [Matt Pocock's skills](https://github.com/mattpocock/skills). Sharp, code-centric, MIT, his licence sits in every folder. Kept in sync with his upstream, see below. |
 
 Every skill is a plain [Agent Skills](https://agentskills.io/specification)
