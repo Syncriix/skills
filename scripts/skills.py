@@ -266,7 +266,12 @@ def vendor_sync(args):
                     continue
                 new_path = moved[0]
                 print(f"  {name}: moved upstream {path} -> {new_path}, following")
-            patch = git("diff", "--binary", "--full-index", f"{old}:{path}", f"{head}:{new_path}").stdout
+            diff = git("diff", "--binary", "--full-index", f"{old}:{path}", f"{head}:{new_path}", check=False)
+            if diff.returncode:
+                print(f"  {name}: cannot diff {path}@{old[:12]}, stays pinned\n    {diff.stderr.decode().strip()}")
+                attention = True
+                continue
+            patch = diff.stdout
             if patch:
                 result = git("apply", "--3way", f"--directory={dest}", "-", stdin=patch, check=False)
                 conflicted = out("ls-files", "--unmerged", "--", dest)
