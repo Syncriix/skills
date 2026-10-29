@@ -21,9 +21,9 @@ Why the user rewinds shapes what matters:
 
 Other reasons follow the same rule.
 
-Write it in the user's voice, as they would have sent it at the target, and keep their words for whatever of it still stands. Every name in the retcon must be one your past self knew at the target or one the retcon introduces.
+Write it in the user's voice, as they would have sent it at the target, and keep their words for whatever of it still stands. Every name in the retcon must be one your past self knew at the target or one the retcon introduces. The next move stands alone as the last line, after a blank line, so the user can spot, edit or delete it; what was learned, decided, done or changed goes above it.
 
-The user names the target when invoking; without one, it is the user message where this branch began.
+The target is a message in this conversation, found by reading back through it; there is nothing to look up. The user names it when invoking. Without a name, it is the user's last request before the detour began: the experiment, the finished job, the side quest, or the stretch of thread being cleared away. When two messages fit, ask.
 
 ## Output
 
@@ -35,9 +35,16 @@ The retcon or questions, never both: the user copies your whole reply.
 ## Examples
 
 Target: "Now send the invoice, then draft the reminder mail."
-Retcon: Invoice is out. Now draft the reminder mail.
+Retcon:
+> Invoice is out.
+>
+> Now draft the reminder mail.
 
 Target: "Great outline. Now draft the intro for the board talk."
 Since then: Q3 revenue turned out to be 4.6M, not 4.1M; the user dropped the hiring slide; a competitor spreadsheet got built.
-Retcon: Great outline. Meanwhile: Q3 revenue is 4.6M, not 4.1M, and the hiring slide is out. Now draft the intro for the board talk.
-(The spreadsheet stays behind: the intro doesn't touch it.)
+Retcon:
+> Great outline. Meanwhile: Q3 revenue is 4.6M, not 4.1M, and the hiring slide is out.
+>
+> Now draft the intro for the board talk.
+
+The spreadsheet stays behind: the intro doesn't touch it.
