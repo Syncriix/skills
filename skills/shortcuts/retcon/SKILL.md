@@ -44,10 +44,10 @@ When the retcon is ready, the user copies your entire reply with `/copy`. Your r
 
 ## 4. State Polarity
 
-Never lump all `Post-T` disk activity together; state each by its actual status at `Now`:
+Never lump `Post-T` disk activity together; state each change that survives the mode filter (§3) by its actual status at `Now`. Changes the filter drops stay unmentioned, even when they touched a file `Pre-T` read:
 
 1. **Accepted state:** Completed work and decisions that stand → state as fact with exact paths, SHAs, numbers, URLs, and names.
-2. **Stale `Pre-T` state:** Files `Pre-T` read or assumptions `Pre-T` made that `Post-T` changed → plant an explicit invalidation (`re-read <path> before editing`, updated value).
+2. **Stale `Pre-T` state:** Files `Pre-T` read or assumptions `Pre-T` made that `Post-T` changed → plant a bare invalidation (`re-read <path> before editing`), plus the updated value only when the thread continuing from `T` uses it. Never say what changed in the file or why when the change belongs to pruned work.
 3. **Leftover / superseded state:** Files or commits written during a discarded attempt in `T..Now` that still sit on disk → warn the `T`-agent that they exist on disk and must be overwritten or reverted.
 
 ## 5. Voice & Two-Zone Layout
